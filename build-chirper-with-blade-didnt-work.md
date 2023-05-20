@@ -1,4 +1,6 @@
-https://bootcamp.laravel.com/blade/installation
+https://www.youtube.com/watch?v=iHad9TH9mOA
+https://bootcamp.laravel.com/blade/installation#installation-via-docker
+
 https://artisansweb.net/how-to-run-laravel-artisan-commands-in-visual-studio-code/
 
 If you have already installed PHP and Composer on your local machine, you may create a new Laravel project via Composer:
